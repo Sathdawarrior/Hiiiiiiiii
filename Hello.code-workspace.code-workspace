@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../C-79"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C80"
+	}
+}
